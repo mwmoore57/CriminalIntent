@@ -15,8 +15,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
-//TODO Write a TimePickerFragment to allow user to use TimePicker widget to pick a time for the crime
-
 public class DatePickerFragment extends DialogFragment {
 
     public static final String EXTRA_DATE =
